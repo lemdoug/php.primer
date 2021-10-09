@@ -35,6 +35,7 @@
     <button type="button" class="btn btn-dark">CLICK ME TO CLAIM YOUR PRIZE!!!</button>
     <button type="button" class="btn btn-primary">CLICK ME TO CLAIM YOUR PRIZE!!!</button>
 
+     <a href="https://heroku.com" target="_blank" class="btn btn-success">Heroku.com</a>
     <?php
         require 'includes/footer.php';    
     ?>
