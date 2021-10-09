@@ -32,8 +32,9 @@
     ?>
 
     <button type="button" class="btn btn-danger">CLICK ME TO CLAIM YOUR PRIZE!!!</button>
+    <button type="button" class="btn btn-dark">CLICK ME TO CLAIM YOUR PRIZE!!!</button>
+    <button type="button" class="btn btn-primary">CLICK ME TO CLAIM YOUR PRIZE!!!</button>
 
     <?php
         require 'includes/footer.php';    
     ?>
-    
